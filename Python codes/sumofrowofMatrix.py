@@ -1,6 +1,3 @@
-A=[[1,2,3],[4,5,6]]
-rows=2
-cols=3
-res=[[j[i]+=A[j][i] for i in cols] for j in range(rows)]
-# for j in A:
-#   for 
+arr=[[2,4,7],[1,3,5],[8,0,4]]
+row_sum=[sum(row) for row in arr]
+print(row_sum)
