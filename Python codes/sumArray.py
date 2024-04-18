@@ -1,7 +1,5 @@
-arr=input("Enter the array")
-arr_new=list(map(int,arr.split()))
-print(arr_new)
-
-for i in range(arr_new):
+arr=list(map(int,input("Enter the string : ").split()))
+sum=0
+for i in arr:
     sum+=i
 print(sum)

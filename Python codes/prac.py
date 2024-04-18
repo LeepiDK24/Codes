@@ -42,9 +42,10 @@
 
 
 # Mean
-n=(input("Enter n"))
-a=list(map(int(input.split(n))))
-for x in range(a):
-    sum+=x
-    mean=sum/x
-print(mean)
+# n=(input("Enter n"))
+# a=list(map(int(input.split(n))))
+# for x in range(a):
+#     sum+=x
+#     mean=sum/x
+# print(mean)
+
