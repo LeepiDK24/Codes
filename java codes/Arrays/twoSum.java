@@ -18,7 +18,6 @@ public class twoSum {
                 if(arr[j]+arr[j]==target){
                     System.out.println(i + " "+j);
                 }
-                
         }
     }
     sc.close();
