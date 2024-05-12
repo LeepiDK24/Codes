@@ -19,4 +19,3 @@ for i in range(n):
         row.append(element)
     matrix.append(row)
 print(RotateImage(matrix))
-
